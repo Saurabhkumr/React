@@ -1,0 +1,22 @@
+.todo-container{
+  max-width: 700px ;
+  margin-top: 20PX;
+  padding: 10px;
+  border: 2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+input{
+  width: 100%;
+}
+.item-container{
+ text-align: left;
+}
+.my-row{
+  margin: 15px 5px;
+}
+.my-button{
+  min-width: 80px;
+}
