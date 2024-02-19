@@ -1,11 +1,18 @@
-import {Mybutton} from "./Mybutton"
+import {Mybutton} from "./Mybutton";
+import Hello  from "./Hello";
+import Random from "./Random"
 
 function App(){
   return <div>
   <h1>
     hello world
   </h1>
-  <Mybutton></Mybutton>
+  <Hello></Hello>
+  <Random></Random>
+  <Random></Random>
+  <Random></Random>
+  <Random></Random>
+  <Random></Random>
   </div>
 }
 
